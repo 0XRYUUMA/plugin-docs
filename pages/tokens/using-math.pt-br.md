@@ -1,6 +1,6 @@
 # Usando matemática
 
-Muitas vezes, pode fazer sentido construir seus tokens com uma escala em mente, como uma escala de tipografia ou uma escala de espaçamento. O que isso significa é que um valor usa outro valore e faz cálculos com ele.
+Muitas vezes, pode fazer sentido construir seus tokens com uma escala em mente, como uma escala de tipografia ou uma escala de espaçamento. Isso significa que, um valor usa outro valor e faz cálculos com ele.
 
 Por exemplo, você pode querer que seu token `spacing.sm` faça referência ao token `spacing.xs`, porém multiplique seu valor por 2. Para fazer isso, você pode escrever o seguinte como o valor do token: `$spacing.xs * 2` (observe o espaço entre o token e o valor).
 
